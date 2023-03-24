@@ -17,5 +17,5 @@ BitmapImage bmp = new BitmapImage(new Uri(@"pack://application:,,,/example.bmp")
 ```
 
 ### 预览效果
-![预览](https://tiebapic.baidu.com/forum/pic/item/577932b1cb134954f80f0c29414e9258d0094a95.jpg?tbpicau=2023-03-26-05_911ea5ef5bc5dfc8ddc8b4447169b46f)
-![预览](https://tiebapic.baidu.com/forum/pic/item/b1a8c4ec54e736d1ff176a458c504fc2d462699a.jpg?tbpicau=2023-03-26-05_0ba9709ad989c4065eadab99317c1ba6)
+![预览](https://user-images.githubusercontent.com/76199161/227457145-087c3320-e799-4b5c-9f8d-0627eda8506f.jpg)
+![预览](https://user-images.githubusercontent.com/76199161/227457193-25e0f1b6-9ab4-4e80-84b1-908b4c87420f.jpg)
